@@ -92,7 +92,7 @@ class Bird:
 
 class Pipe:
     GAP = 150
-    VEL = 10# the velocity the pipe moves
+    VEL = 20# the velocity the pipe moves
 
     def __init__(self, x):
         self.x = x
