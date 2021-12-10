@@ -10,4 +10,4 @@ To run the program, first need to `pip install` `pygame` and `neat`, then:
 python flappy_bird.py
 ````
 
-![demo](.\demo.jpg)
+![demo](https://github.com/ch1nlu/autoFlappyBird/blob/master/demo.jpg)
